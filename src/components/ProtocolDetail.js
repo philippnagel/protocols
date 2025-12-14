@@ -65,7 +65,7 @@ function ProtocolDetail({ protocol, index, total }) {
                     <SpectrumContinuum spectrums={spectrums} />  {/* Pass the spectrum data */}
                 </div>
                 <div className='next'>
-                    <a onClick={handleNext}>Next</a>
+                    <button onClick={handleNext}>Next</button>
                 </div>
             </div>
         </div>

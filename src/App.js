@@ -12,7 +12,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Title title="Protocol Starter Pack" />
+        <Title title="Protocol Guide" />
         <Routes>
          <Route path="/" element={
             <div>

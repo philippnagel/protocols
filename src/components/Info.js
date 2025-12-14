@@ -1,7 +1,7 @@
 import React from "react";
 import './Info.css';
 
-function Info({ }) {
+function Info() {
     return (
 
         <div className="info">
