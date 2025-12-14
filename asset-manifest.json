@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/philippnagel/protocols/static/css/main.5927b847.css",
+    "main.js": "/philippnagel/protocols/static/js/main.7187efb6.js",
+    "static/js/488.4ac0bc4e.chunk.js": "/philippnagel/protocols/static/js/488.4ac0bc4e.chunk.js",
+    "static/media/AcuminPro-Medium.otf": "/philippnagel/protocols/static/media/AcuminPro-Medium.f417b1f796c0cabf63dc.otf",
+    "index.html": "/philippnagel/protocols/index.html",
+    "main.5927b847.css.map": "/philippnagel/protocols/static/css/main.5927b847.css.map",
+    "main.7187efb6.js.map": "/philippnagel/protocols/static/js/main.7187efb6.js.map",
+    "488.4ac0bc4e.chunk.js.map": "/philippnagel/protocols/static/js/488.4ac0bc4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5927b847.css",
+    "static/js/main.7187efb6.js"
+  ]
+}
